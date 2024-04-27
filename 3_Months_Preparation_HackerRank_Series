@@ -1,0 +1,11 @@
+3 Months Preparation HackerRank Series:
+
+Learning : 
+===========================================================================================================================================
+Problem 1 : Plus Minus
+Learning : String format upto certain precision for float data type : System.out.println(String.format("%.6f", (float) noPos/arr.size())); 
+===========================================================================================================================================
+Problem 2 : Mini-Max Sum
+Learning : Collections.Sort() function for sorting of list , array datatypes.
+           Long datatype for 64 bit Integers.
+============================================================================================================================================
