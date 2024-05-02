@@ -14,3 +14,8 @@ Problem 3 : Time Conversion
 Learning : Substring fetching based upon index || String.valueOf() : Converting integer to string || Integer.valueOf() : Converting striing to integer
 
 =======================================================================================================================================================
+Mock Test
+
+Learning : arr.sort(null) for sorting list java 8;
+
+========================================================================================================================================================
